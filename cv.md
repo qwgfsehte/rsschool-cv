@@ -1,9 +1,9 @@
 # rsschool-cv
 ***
-1. Name: *Viktoria Rashchepkina*
+1 - Name: *Viktoria Rashchepkina*
 
 
-2. Contacts: 
+2 - Contacts: 
 
 + Phone: *8902 867 79 85* 
 
@@ -12,12 +12,12 @@
 + RS-Discord: *Vika Rashchepkina (@qwgfsehte)*
 
 
-3. About Me:
+3 - About Me:
 
 + *I'm 19 years old. I don't have any programming experience yet. I'm just starting to learn and hope to purchase it in the future.*
 
 
-4. Skills:
+4 - Skills:
 
 + *HTML*
 
@@ -28,7 +28,7 @@
 + *Git*
 
 
-5. My code: 
+5 - My code: 
 
 ```
 function century(year) {
@@ -46,6 +46,6 @@ function century(year) {
 ```
 
 
-6. English level:
+6 - English level:
 
 + *Basic User*
