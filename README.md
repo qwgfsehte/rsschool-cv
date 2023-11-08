@@ -1,1 +1,1 @@
-https://qwgfsehte.github.io/rsschool-cv/cv
+https://qwgfsehte.github.io/rsschool-cv/
