@@ -1,1 +1,1 @@
-## rsschool-cv
+https://qwgfsehte.github.io/rsschool-cv/
